@@ -1,5 +1,5 @@
 #mainHead{
-    height: 7%;
+    height: 8%;
     width: 100%;
     border-bottom: 3px solid gray;
     position: absolute;
@@ -7,5 +7,32 @@
 #head{
     margin-top: 10px;
     margin-left: 5px;
-    font-style: bolder;
+    font-style: oblique;
+    font-size: 20px;
+}
+#sideBar{
+    height: 100%;
+    position: absolute;
+    top: 9.4%;
+    width: 13%;
+    border-right: 3px solid gray;
+}
+
+.Menu{
+    margin: 10px;
+    color: black;
+}
+.menuname{
+    margin-top:20px;
+    text-align: center;
+}
+.page{
+    margin-top: 7%;
+    margin-left: 15%;
+    position: absolute;
+    width: 100%;
+    height: 100%;
+}
+.content{
+    text-align: center;
 }
