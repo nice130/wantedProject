@@ -1,0 +1,11 @@
+#mainHead{
+    height: 7%;
+    width: 100%;
+    border-bottom: 3px solid gray;
+    position: absolute;
+}
+#head{
+    margin-top: 10px;
+    margin-left: 5px;
+    font-style: bolder;
+}
